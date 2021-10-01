@@ -6,7 +6,7 @@
 A simple GUI game made in order to enhance my knowledge of [Python](https://www.python.org/) and [pygame](https://www.pygame.org/).
 
 ## Game Preview
-![Game Preview](https://github.com/svdimitrov/Tic-Tac-Toe/blob/master/img/Game%20preview.png)
+<img src="https://github.com/svdimitrov/Tic-Tac-Toe/blob/master/img/Game%20preview.png" alt="Game Preview" width=100 height=120>
 
 ## Usage
 First, download the project:
